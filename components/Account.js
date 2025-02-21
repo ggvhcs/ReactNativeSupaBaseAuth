@@ -1,8 +1,7 @@
 import { useState, useEffect } from "react";
-import { Alert, StyleSheet, View, AppState } from "react-native";
+import { Alert, StyleSheet, View } from "react-native";
 import { Button, Input } from "react-native-elements";
 import { supabase } from "../lib/supabase";
-import { Session } from "@supabase/supabase-js";
 
 export default function Account({ session }) {
   const [loading, setLoading] = useState(true);
