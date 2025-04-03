@@ -13,5 +13,5 @@ React version 18.3.1
 React Native version 0.76.6
 expo version 52.0.27
 
-biblio:
+--- bibliography ---
 https://t.me/Mosh4Learning
